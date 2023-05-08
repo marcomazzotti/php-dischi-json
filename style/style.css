@@ -1,0 +1,16 @@
+header {
+  height: 80px;
+  color: white;
+  background-color: #091c31;
+}
+
+main {
+  background-color: #1d2d3c;
+  padding-bottom: 2rem;
+}
+
+.ms-card {
+  background-color: #091c31;
+  padding: 2rem;
+  color: white;
+}
